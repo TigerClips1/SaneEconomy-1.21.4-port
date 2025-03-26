@@ -1,5 +1,6 @@
 name: SaneEconomy
-author: AppleDash
+author: AppleDash TigerClips1 jascotty2
+
 main: org.appledash.saneeconomy.SaneEconomy
 version: ${project.version}
 # api-version: '1.14'
